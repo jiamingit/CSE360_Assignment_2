@@ -16,7 +16,7 @@ public class TestAnalytics {
 
 	public static void main(String[] args) 
 	{
-		System.out.println("Change");
+		
 		//set a test array of size 20
 		//randomly get number from 0 to 50
 		Analytics myTest = new Analytics();
